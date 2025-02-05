@@ -1,3 +1,3 @@
-API_ID = 1234567                   
-API_HASH = "xxxxxxxxxxxxxxxxxx"   
-BOT_TOKEN = "توكن_البوت_هنا"
+API_ID = "7684100"                   
+API_HASH = "c2f3494545ad848ac58c2bea2076a00c"   
+BOT_TOKEN = "6470810240:AAGFhd9et-bakCB1zrwTD-A9M4AL4FiAsUc "
